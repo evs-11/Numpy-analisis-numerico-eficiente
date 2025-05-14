@@ -1,3 +1,3 @@
 # Numpy-analisis-numerico-eficiente
 
-###Proyecto: en construcción
+###Proyecto: concluido - ya se puede consultar
